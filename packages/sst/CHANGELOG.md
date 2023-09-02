@@ -1,5 +1,11 @@
 # @serverless-stack/cli2
 
+## 2.24.23
+
+### Patch Changes
+
+- [`dfb640f7a`](https://github.com/sst/sst/commit/dfb640f7aecb07874c9b9328be611a68a4c79ce7) Thanks [@fwang](https://github.com/fwang)! - Function: fix java handlers from the same project builds empty zip
+
 ## 2.24.22
 
 ### Patch Changes
